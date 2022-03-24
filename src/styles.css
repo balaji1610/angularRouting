@@ -1,1 +1,41 @@
 /* You can add global styles to this file, and also import other style files */
+.header_align
+{
+  padding-top: 30px;
+  padding-bottom: 30px;
+
+}
+
+.header_style {
+background-color: beige;
+
+}
+
+.home_bg{
+
+  background-color: darkcyan;
+  color:#000000;
+  padding-top:40px;
+  padding-bottom: 40px;
+  border:1px solid #ffffff
+}
+.about_bg{
+  background-color: #B3E5FC;
+  color:#000000;
+  padding-top:40px;
+  padding-bottom: 40px;
+  border:1px solid #ffffff
+}
+
+
+.footer_bg{
+
+background-color:#000000 ;
+color:#ffffff
+
+}
+.footer_bg_align
+{
+
+  text-align: center;
+}
