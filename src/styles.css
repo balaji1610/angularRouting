@@ -13,7 +13,7 @@ background-color: beige;
 
 .home_bg{
 
-  background-color: darkcyan;
+  background-color: #00BCD4;
   color:#000000;
   padding-top:40px;
   padding-bottom: 40px;
@@ -26,7 +26,21 @@ background-color: beige;
   padding-bottom: 40px;
   border:1px solid #ffffff
 }
+.services_bg{
 
+  background-color: #DCEDC8;
+  color:#000000;
+  padding-top:40px;
+  padding-bottom: 40px;
+  border:1px solid #ffffff
+}
+.contact_bg{
+  background-color: #009688;
+  color:#000000;
+  padding-top:40px;
+  padding-bottom: 40px;
+  border:1px solid #ffffff
+}
 
 .footer_bg{
 
@@ -34,8 +48,17 @@ background-color:#000000 ;
 color:#ffffff
 
 }
+
 .footer_bg_align
 {
 
   text-align: center;
+}
+
+
+.button_pd {
+  padding: 6px;
+  margin: 4px;
+  float: left;
+
 }
